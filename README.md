@@ -32,8 +32,8 @@ The following marks obtained by me in class 12th are as follows --
 
 ###### *CONTACTS*
 
-1. Email-san71sehgal@gmail.com
-2. [Linkedin]-(https://www.linkedin.com/in/samridh-sehgal-8abb95315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+1. Email- san71sehgal@gmail.com
+2. Linkedin-(https://www.linkedin.com/in/samridh-sehgal-8abb95315)
    
 
 
