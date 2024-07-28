@@ -28,6 +28,8 @@ The following marks obtained by me in class 12th are as follows --
 
 ##### * MY BLOGS*
 
-1.[ECXCEL CERTIFICATE]
+1.[ECXCEL CERTIFICATE](myexperiance/EXCEL.md)
+
+
 
 
