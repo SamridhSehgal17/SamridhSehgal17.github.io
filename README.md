@@ -26,10 +26,15 @@ The following marks obtained by me in class 12th are as follows --
 3.SQL - Knows basics of structured querry language (SQL) and different commands like DDL,DML,DSL and function like single row function , mulpitle row function and joints querry ( studiedin class 12th )
 4.CANVA - Learnt basics of canva as poster making,video editing and many more things 
 
-##### * MY BLOGS*
+##### *MY BLOGS*
 
 1.[ECXCEL CERTIFICATE](myexperiance/EXCEL.md)
 
+###### *CONTACTS*
+
+1. Email-san71sehgal@gmail.com
+2. [Linkedin]-(https://www.linkedin.com/in/samridh-sehgal-8abb95315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+   
 
 
 
